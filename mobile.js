@@ -117,4 +117,3 @@ const paperList = Array.from(document.querySelectorAll('.paper:not(.video)')).ma
   p.init(paper);
   return { element: paper, instance: p };
 });
-
